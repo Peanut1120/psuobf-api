@@ -1,5 +1,5 @@
 {
-  "name": "psu-api",
+  "name": "psuobf-api",
   "version": "1.0.0",
   "description": "Node.js API Wrapper for the PSU API",
   "main": "index.js",
